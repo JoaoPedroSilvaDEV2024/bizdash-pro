@@ -98,7 +98,7 @@ CREATE TABLE leads (
   revenue NUMERIC
 );
 ```
-## 📌 Dados de exemplo:
+### 📌 Dados de exemplo:
 
 ```sql
 INSERT INTO leads (converted, revenue) VALUES
