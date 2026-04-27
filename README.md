@@ -98,3 +98,14 @@ CREATE TABLE leads (
   revenue NUMERIC
 );
 ```
+## 📌 Dados de exemplo:
+
+```sql
+INSERT INTO leads (converted, revenue) VALUES
+(true, 100),
+(false, 0),
+(true, 250),
+(true, 300),
+(false, 0);
+```
+
