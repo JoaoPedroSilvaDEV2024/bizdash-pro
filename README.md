@@ -132,3 +132,51 @@ Aplicação roda em:
 ```bash
 http://localhost:3000
 ```
+---
+
+## 📊 Endpoint da API
+
+### GET /metrics
+Retorna métricas do sistema:
+```bash
+{
+  "leads": 20,
+  "conversions": 5,
+  "revenue": 1500,
+  "conversion_rate": 0.25,
+  "roi": 3.0,
+  "growth": 12.5,
+  "daily": [
+    { "date": "Seg", "value": 10 }
+  ]
+}
+```
+---
+
+## 🎨 Interface
+- UI moderna estilo SaaS
+- Cards com efeito glassmorphism
+- Gráficos interativos
+- Layout limpo e responsivo
+- Experiência focada em análise de dados
+---
+
+## 🎯 Objetivo do Projeto
+Este projeto foi desenvolvido com foco em:
+- Simular um produto real de mercado
+- Prática de arquitetura full stack
+- Demonstração de habilidades em dados e dashboards
+- Portfólio profissional para vagas de tecnologia
+---
+
+## 📌 Possíveis Melhorias Futuras
+- 🔐 Sistema de login (multi-empresa)
+- 📊 Filtros por período (7d, 30d, etc.)
+- 🌐 Deploy em nuvem (Vercel + Render)
+- 📱 Responsividade mobile avançada
+- 📡 Integração com APIs reais de marketing
+- 📈 Análise preditiva com IA
+---
+
+## 👨‍💻 Autor
+Desenvolvido por João Pedro Silva
