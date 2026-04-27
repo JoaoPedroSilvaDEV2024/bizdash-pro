@@ -108,4 +108,8 @@ INSERT INTO leads (converted, revenue) VALUES
 (true, 300),
 (false, 0);
 ```
+---
 
+## 🚀 Como Executar o Projeto
+
+### 🔧 Backend
