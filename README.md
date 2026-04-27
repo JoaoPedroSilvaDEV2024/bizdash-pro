@@ -27,3 +27,44 @@ Frontend (React)
 API (Node.js + Express)
         ↓
 Banco de Dados (PostgreSQL)
+```
+---
+
+## ⚙️ Tecnologias Utilizadas
+
+### 💻 Frontend
+- React
+- Chart.js
+- Axios
+- CSS moderno (UI estilo SaaS)
+
+### 🔧 Backend
+- Node.js
+- Express
+- PostgreSQL
+- Cálculo de métricas em tempo real
+
+---
+
+## 📊 Funcionalidades
+
+### 📈 Dashboard
+- Cards com métricas principais
+- Gráficos dinâmicos (Bar, Line, Doughnut)
+- Insights automáticos de performance
+
+### 🧠 Inteligência de Dados
+- Cálculo de ROI
+- Taxa de conversão
+- Crescimento percentual
+- Agregação de dados via SQL
+
+### 🗄️ Banco de Dados
+- Armazenamento de leads
+- Controle de conversões
+- Registro de receita
+
+---
+
+## 🧱 Estrutura do Projeto
+
