@@ -68,3 +68,33 @@ Banco de Dados (PostgreSQL)
 
 ## 🧱 Estrutura do Projeto
 
+```
+bizdash-pro/
+│
+├── backend/
+│ ├── server.js
+│ ├── db.js
+│ └── routes/
+│ └── metrics.js
+│
+├── frontend/
+│ ├── src/
+│ │ ├── components/
+│ │ │ └── Dashboard.js
+│ │ ├── api.js
+│ │ └── dashboard.css
+```
+
+---
+
+## 🗄️ Banco de Dados
+
+### 📌 Tabela principal: `leads`
+
+```sql
+CREATE TABLE leads (
+  id SERIAL PRIMARY KEY,
+  converted BOOLEAN,
+  revenue NUMERIC
+);
+```
