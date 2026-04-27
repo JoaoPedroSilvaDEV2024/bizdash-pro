@@ -113,3 +113,22 @@ INSERT INTO leads (converted, revenue) VALUES
 ## 🚀 Como Executar o Projeto
 
 ### 🔧 Backend
+```bash
+cd backend
+npm install
+node server.js
+```
+Servidor roda em:
+```bash
+http://localhost:3001
+```
+### 💻 Frontend
+```bash
+cd frontend
+npm install
+npm start
+```
+Aplicação roda em:
+```bash
+http://localhost:3000
+```
