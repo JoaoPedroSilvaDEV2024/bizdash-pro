@@ -19,4 +19,11 @@ O sistema integra backend, banco de dados e frontend em uma arquitetura simples,
 
 ---
 
-## 🏗️ Arquitetura
+## 🏗️ Arquitetura do Sistema
+
+```text
+Frontend (React)
+        ↓
+API (Node.js + Express)
+        ↓
+Banco de Dados (PostgreSQL)
